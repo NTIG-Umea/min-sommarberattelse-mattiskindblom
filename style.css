@@ -21,6 +21,10 @@ p {
 
 h1 {
 margin-bottom: 2rem;
+text-transform: uppercase;
+opacity: .9;
+font-weight: 200;
+font-size: 170%;
 }
 
 .text { 
@@ -49,4 +53,14 @@ footer {
     text-align: center;
     padding-top: 2rem;
     padding-bottom: 4rem;
+}
+
+.spaan {
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+}
+span {
+    font-weight: 450;
+    opacity: .8;
 }
